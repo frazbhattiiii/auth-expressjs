@@ -1,0 +1,53 @@
+Objective
+This test evaluates a candidate's ability to build and manage a user management system, focusing on authentication, authorization, and role-based access control.
+
+Test Scope
+Candidates are expected to develop a backend and a simple frontend that integrate the following functionalities:
+
+Requirements
+Backend Requirements
+Implement a User Management System with CRUD operations.
+Implement Role-Based Access Control (RBAC) with roles and permissions.
+Use JWT-based authentication for secure access.
+Develop API endpoints for managing users, roles, and permissions.
+Ensure secure password hashing and authentication best practices.
+Use a database (MongoDB or PostgreSQL) to store user information.
+Frontend Requirements
+Implement Login and Authentication.
+Allow User, Role, and Permission Management via UI.
+Integrate API endpoints for authentication and authorization.
+Technology Stack
+Backend:
+Framework: Express.js/Nest js with Typescript (Prefer Express - Since we mostly work with Express)
+Database: MongoDB / PostgreSQL
+Authentication: JWT
+API Communication: RESTful APIs (GraphQL preferred)
+Frontend:
+Framework: React/Next.js with TypeScript
+UI Library: Tailwind CSS
+Assessment Criteria
+Candidates will be evaluated based on:
+
+Code structure and maintainability
+Secure authentication and authorization implementation
+Proper role and permission handling
+API design and documentation
+UI/UX and frontend integration quality
+Error handling and validation
+Submission Guidelines
+Provide a GitHub repository link containing the complete project.
+Ensure proper documentation for API endpoints and usage.
+Include a brief explanation of the project structure and decisions made.
+Bonus Points
+Use Docker for containerized deployment.
+Implement real-time role updates using WebSockets.
+Note
+This test includes many features; not all are mandatory, but the more you implement, the better.
+Conclusion
+This test assesses a candidate’s ability to build a secure, scalable, and maintainable user management system. Ensure your submission follows best practices and includes clear documentation.
+
+To submit, add developer@ninjascode.com as collaborator.
+
+Make sure your repo is public.
+
+We look forward to your submission!
