@@ -65,11 +65,6 @@ A **Role-Based Access Control (RBAC)** system using **Express.js, Prisma, Postgr
 - **Admin user is pre-seeded** (`npm run db:seed`) and cannot be created via frontend.  
 - **Use Bearer Token** for authentication.  
 
----
-
-## **📧 Contact & Support**  
-For issues, raise a GitHub issue or contact the development team.  
-
 🚀 **Built with Prisma & Express.js**  
 
 ---
